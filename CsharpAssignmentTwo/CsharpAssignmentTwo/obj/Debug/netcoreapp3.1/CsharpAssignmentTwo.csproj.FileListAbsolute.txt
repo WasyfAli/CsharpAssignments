@@ -1,0 +1,11 @@
+C:\Users\Wasyf\source\repos\CsharpAssignmentTwo\CsharpAssignmentTwo\bin\Debug\netcoreapp3.1\CsharpAssignmentTwo.exe
+C:\Users\Wasyf\source\repos\CsharpAssignmentTwo\CsharpAssignmentTwo\bin\Debug\netcoreapp3.1\CsharpAssignmentTwo.deps.json
+C:\Users\Wasyf\source\repos\CsharpAssignmentTwo\CsharpAssignmentTwo\bin\Debug\netcoreapp3.1\CsharpAssignmentTwo.runtimeconfig.json
+C:\Users\Wasyf\source\repos\CsharpAssignmentTwo\CsharpAssignmentTwo\bin\Debug\netcoreapp3.1\CsharpAssignmentTwo.runtimeconfig.dev.json
+C:\Users\Wasyf\source\repos\CsharpAssignmentTwo\CsharpAssignmentTwo\bin\Debug\netcoreapp3.1\CsharpAssignmentTwo.dll
+C:\Users\Wasyf\source\repos\CsharpAssignmentTwo\CsharpAssignmentTwo\bin\Debug\netcoreapp3.1\CsharpAssignmentTwo.pdb
+C:\Users\Wasyf\source\repos\CsharpAssignmentTwo\CsharpAssignmentTwo\obj\Debug\netcoreapp3.1\CsharpAssignmentTwo.csprojAssemblyReference.cache
+C:\Users\Wasyf\source\repos\CsharpAssignmentTwo\CsharpAssignmentTwo\obj\Debug\netcoreapp3.1\CsharpAssignmentTwo.AssemblyInfoInputs.cache
+C:\Users\Wasyf\source\repos\CsharpAssignmentTwo\CsharpAssignmentTwo\obj\Debug\netcoreapp3.1\CsharpAssignmentTwo.AssemblyInfo.cs
+C:\Users\Wasyf\source\repos\CsharpAssignmentTwo\CsharpAssignmentTwo\obj\Debug\netcoreapp3.1\CsharpAssignmentTwo.dll
+C:\Users\Wasyf\source\repos\CsharpAssignmentTwo\CsharpAssignmentTwo\obj\Debug\netcoreapp3.1\CsharpAssignmentTwo.pdb
