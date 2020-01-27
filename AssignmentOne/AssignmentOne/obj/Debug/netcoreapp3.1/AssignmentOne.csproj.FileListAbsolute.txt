@@ -1,0 +1,11 @@
+C:\Users\Wasyf\source\repos\AssignmentOne\AssignmentOne\obj\Debug\netcoreapp3.1\AssignmentOne.csprojAssemblyReference.cache
+C:\Users\Wasyf\source\repos\AssignmentOne\AssignmentOne\obj\Debug\netcoreapp3.1\AssignmentOne.AssemblyInfoInputs.cache
+C:\Users\Wasyf\source\repos\AssignmentOne\AssignmentOne\obj\Debug\netcoreapp3.1\AssignmentOne.AssemblyInfo.cs
+C:\Users\Wasyf\source\repos\AssignmentOne\AssignmentOne\bin\Debug\netcoreapp3.1\AssignmentOne.exe
+C:\Users\Wasyf\source\repos\AssignmentOne\AssignmentOne\bin\Debug\netcoreapp3.1\AssignmentOne.deps.json
+C:\Users\Wasyf\source\repos\AssignmentOne\AssignmentOne\bin\Debug\netcoreapp3.1\AssignmentOne.runtimeconfig.json
+C:\Users\Wasyf\source\repos\AssignmentOne\AssignmentOne\bin\Debug\netcoreapp3.1\AssignmentOne.runtimeconfig.dev.json
+C:\Users\Wasyf\source\repos\AssignmentOne\AssignmentOne\bin\Debug\netcoreapp3.1\AssignmentOne.dll
+C:\Users\Wasyf\source\repos\AssignmentOne\AssignmentOne\bin\Debug\netcoreapp3.1\AssignmentOne.pdb
+C:\Users\Wasyf\source\repos\AssignmentOne\AssignmentOne\obj\Debug\netcoreapp3.1\AssignmentOne.dll
+C:\Users\Wasyf\source\repos\AssignmentOne\AssignmentOne\obj\Debug\netcoreapp3.1\AssignmentOne.pdb

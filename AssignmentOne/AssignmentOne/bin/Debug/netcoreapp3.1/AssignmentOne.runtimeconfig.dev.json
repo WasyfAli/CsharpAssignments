@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Wasyf\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Wasyf\\.nuget\\packages"
+    ]
+  }
+}
