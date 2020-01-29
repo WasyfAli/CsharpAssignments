@@ -1,0 +1,11 @@
+C:\Users\Wasyf\source\repos\Assignment_Three\Assignment_Three\bin\Debug\netcoreapp3.1\Assignment_Three.exe
+C:\Users\Wasyf\source\repos\Assignment_Three\Assignment_Three\bin\Debug\netcoreapp3.1\Assignment_Three.deps.json
+C:\Users\Wasyf\source\repos\Assignment_Three\Assignment_Three\bin\Debug\netcoreapp3.1\Assignment_Three.runtimeconfig.json
+C:\Users\Wasyf\source\repos\Assignment_Three\Assignment_Three\bin\Debug\netcoreapp3.1\Assignment_Three.runtimeconfig.dev.json
+C:\Users\Wasyf\source\repos\Assignment_Three\Assignment_Three\bin\Debug\netcoreapp3.1\Assignment_Three.dll
+C:\Users\Wasyf\source\repos\Assignment_Three\Assignment_Three\bin\Debug\netcoreapp3.1\Assignment_Three.pdb
+C:\Users\Wasyf\source\repos\Assignment_Three\Assignment_Three\obj\Debug\netcoreapp3.1\Assignment_Three.csprojAssemblyReference.cache
+C:\Users\Wasyf\source\repos\Assignment_Three\Assignment_Three\obj\Debug\netcoreapp3.1\Assignment_Three.AssemblyInfoInputs.cache
+C:\Users\Wasyf\source\repos\Assignment_Three\Assignment_Three\obj\Debug\netcoreapp3.1\Assignment_Three.AssemblyInfo.cs
+C:\Users\Wasyf\source\repos\Assignment_Three\Assignment_Three\obj\Debug\netcoreapp3.1\Assignment_Three.dll
+C:\Users\Wasyf\source\repos\Assignment_Three\Assignment_Three\obj\Debug\netcoreapp3.1\Assignment_Three.pdb
