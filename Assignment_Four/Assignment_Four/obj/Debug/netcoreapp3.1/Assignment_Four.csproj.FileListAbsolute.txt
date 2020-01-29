@@ -1,0 +1,11 @@
+C:\Users\Wasyf\source\repos\Assignment_Four\Assignment_Four\bin\Debug\netcoreapp3.1\Assignment_Four.exe
+C:\Users\Wasyf\source\repos\Assignment_Four\Assignment_Four\bin\Debug\netcoreapp3.1\Assignment_Four.deps.json
+C:\Users\Wasyf\source\repos\Assignment_Four\Assignment_Four\bin\Debug\netcoreapp3.1\Assignment_Four.runtimeconfig.json
+C:\Users\Wasyf\source\repos\Assignment_Four\Assignment_Four\bin\Debug\netcoreapp3.1\Assignment_Four.runtimeconfig.dev.json
+C:\Users\Wasyf\source\repos\Assignment_Four\Assignment_Four\bin\Debug\netcoreapp3.1\Assignment_Four.dll
+C:\Users\Wasyf\source\repos\Assignment_Four\Assignment_Four\bin\Debug\netcoreapp3.1\Assignment_Four.pdb
+C:\Users\Wasyf\source\repos\Assignment_Four\Assignment_Four\obj\Debug\netcoreapp3.1\Assignment_Four.csprojAssemblyReference.cache
+C:\Users\Wasyf\source\repos\Assignment_Four\Assignment_Four\obj\Debug\netcoreapp3.1\Assignment_Four.AssemblyInfoInputs.cache
+C:\Users\Wasyf\source\repos\Assignment_Four\Assignment_Four\obj\Debug\netcoreapp3.1\Assignment_Four.AssemblyInfo.cs
+C:\Users\Wasyf\source\repos\Assignment_Four\Assignment_Four\obj\Debug\netcoreapp3.1\Assignment_Four.dll
+C:\Users\Wasyf\source\repos\Assignment_Four\Assignment_Four\obj\Debug\netcoreapp3.1\Assignment_Four.pdb
