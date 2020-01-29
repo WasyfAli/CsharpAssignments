@@ -1,0 +1,11 @@
+C:\Users\Wasyf\source\repos\Assignment_FIve\Assignment_FIve\bin\Debug\netcoreapp3.1\Assignment_FIve.exe
+C:\Users\Wasyf\source\repos\Assignment_FIve\Assignment_FIve\bin\Debug\netcoreapp3.1\Assignment_FIve.deps.json
+C:\Users\Wasyf\source\repos\Assignment_FIve\Assignment_FIve\bin\Debug\netcoreapp3.1\Assignment_FIve.runtimeconfig.json
+C:\Users\Wasyf\source\repos\Assignment_FIve\Assignment_FIve\bin\Debug\netcoreapp3.1\Assignment_FIve.runtimeconfig.dev.json
+C:\Users\Wasyf\source\repos\Assignment_FIve\Assignment_FIve\bin\Debug\netcoreapp3.1\Assignment_FIve.dll
+C:\Users\Wasyf\source\repos\Assignment_FIve\Assignment_FIve\bin\Debug\netcoreapp3.1\Assignment_FIve.pdb
+C:\Users\Wasyf\source\repos\Assignment_FIve\Assignment_FIve\obj\Debug\netcoreapp3.1\Assignment_FIve.csprojAssemblyReference.cache
+C:\Users\Wasyf\source\repos\Assignment_FIve\Assignment_FIve\obj\Debug\netcoreapp3.1\Assignment_FIve.AssemblyInfoInputs.cache
+C:\Users\Wasyf\source\repos\Assignment_FIve\Assignment_FIve\obj\Debug\netcoreapp3.1\Assignment_FIve.AssemblyInfo.cs
+C:\Users\Wasyf\source\repos\Assignment_FIve\Assignment_FIve\obj\Debug\netcoreapp3.1\Assignment_FIve.dll
+C:\Users\Wasyf\source\repos\Assignment_FIve\Assignment_FIve\obj\Debug\netcoreapp3.1\Assignment_FIve.pdb
