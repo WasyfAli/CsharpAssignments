@@ -1,0 +1,11 @@
+C:\Users\Wasyf\source\repos\Assignment_six\Assignment_six\bin\Debug\netcoreapp3.1\Assignment_six.exe
+C:\Users\Wasyf\source\repos\Assignment_six\Assignment_six\bin\Debug\netcoreapp3.1\Assignment_six.deps.json
+C:\Users\Wasyf\source\repos\Assignment_six\Assignment_six\bin\Debug\netcoreapp3.1\Assignment_six.runtimeconfig.json
+C:\Users\Wasyf\source\repos\Assignment_six\Assignment_six\bin\Debug\netcoreapp3.1\Assignment_six.runtimeconfig.dev.json
+C:\Users\Wasyf\source\repos\Assignment_six\Assignment_six\bin\Debug\netcoreapp3.1\Assignment_six.dll
+C:\Users\Wasyf\source\repos\Assignment_six\Assignment_six\bin\Debug\netcoreapp3.1\Assignment_six.pdb
+C:\Users\Wasyf\source\repos\Assignment_six\Assignment_six\obj\Debug\netcoreapp3.1\Assignment_six.csprojAssemblyReference.cache
+C:\Users\Wasyf\source\repos\Assignment_six\Assignment_six\obj\Debug\netcoreapp3.1\Assignment_six.AssemblyInfoInputs.cache
+C:\Users\Wasyf\source\repos\Assignment_six\Assignment_six\obj\Debug\netcoreapp3.1\Assignment_six.AssemblyInfo.cs
+C:\Users\Wasyf\source\repos\Assignment_six\Assignment_six\obj\Debug\netcoreapp3.1\Assignment_six.dll
+C:\Users\Wasyf\source\repos\Assignment_six\Assignment_six\obj\Debug\netcoreapp3.1\Assignment_six.pdb
